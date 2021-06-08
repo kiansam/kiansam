@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on JavaScript, Reactjs, Nextjs, and Gatsby
-- 🌱 I’m currently learning Adobe XD
+- 🌱 I’m currently learning Adobe XD and react-spring
 
 <!--
 **kiansam/kiansam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
