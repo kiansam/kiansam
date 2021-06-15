@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on JavaScript, Reactjs, Nextjs, and Gatsby
+- 🔭 I’m currently working with HTML, CSS, JavaScript, and React.
 - 🌱 I’m currently learning Adobe XD and Gatsbyjs
 
 <!--
