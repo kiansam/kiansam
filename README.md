@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working with HTML, CSS, Tailwindcss, JavaScript, and React.
-- 🌱 I’m currently learning Adobe XD and Gatsbyjs
+- 🌱 I’m currently learning Adobe XD, and Nextjs
 
 <!--
 **kiansam/kiansam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
