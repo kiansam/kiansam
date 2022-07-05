@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with HTML, CSS, Styled-components, Tailwindcss, JavaScript, NEXT, and React.
-- 🌱 I’m currently learning Adobe XD
+- 🔭 currently working with HTML, CSS, Styled-components, Tailwindcss, JavaScript, NEXT, and React.
 
 <!--
 **kiansam/kiansam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
