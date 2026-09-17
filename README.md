@@ -1,7 +1,5 @@
 ### Hello World 👋
 
-- 🔭 Currently working with HTML, CSS, Styled-components, Tailwindcss, JavaScript, NEXTjs, and React.
-- Worked as a social media manager and content creator for 3 years.
 
 <!--
 **kiansam/kiansam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
